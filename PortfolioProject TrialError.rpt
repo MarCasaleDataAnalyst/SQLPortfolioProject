@@ -1,0 +1,5 @@
+﻿Msg 8115, Level 16, State 2, Line 59
+Arithmetic overflow error converting expression to data type int.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+Completion time: 2023-08-16T09:07:44.8833530-05:00
